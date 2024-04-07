@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 #Live 
-<a href="https://techno-7woe5cpt0-rohits-projects-a43c0cf3.vercel.app/" target="_"/>
+<a href="https://techno-7woe5cpt0-rohits-projects-a43c0cf3.vercel.app/" target="_">Techno</a>
 
   
 
